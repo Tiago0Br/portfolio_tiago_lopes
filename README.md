@@ -1,14 +1,10 @@
 # gatsby-starter-resume
 
-Gatsby.js V2 starter template based on Resume by startbootstrap
+Portfolio created based on the repository https://github.com/anubhavsrivastava/gatsby-starter-resume
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-resume/)
-
-## Screenshot
-
-![Screenshot](./src/assets/img/demo.png)
+Check online preview [here](https://tiago0br.github.io/portfolio_tiago_lopes/)
 
 ## Install
 
